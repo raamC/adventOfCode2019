@@ -1,5 +1,5 @@
 var fs = require("fs");
-var data = fs.readFileSync("./day2_input1.txt", 'utf-8');
+var data = fs.readFileSync("./inputs/day2_input1.txt", 'utf-8');
 data = data.trim().split(',')
 data = data.map(x => Number(x))
 
@@ -38,7 +38,7 @@ for(let p = 0; p < 100; p++) {
     loop2: 
     for(let q = 0; q < 100; q++) {
         
-        var data = fs.readFileSync("./day2_input1.txt", 'utf-8');
+        var data = fs.readFileSync("./inputs/day2_input1.txt", 'utf-8');
         data = data.trim().split(',')
         data = data.map(x => Number(x))
         

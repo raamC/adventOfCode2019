@@ -1,5 +1,5 @@
 var fs = require("fs");
-var data = fs.readFileSync("./day1_input1.txt", 'utf-8');
+var data = fs.readFileSync("./inputs/day1_input1.txt", 'utf-8');
 data = data.trim().split('\n')
 
 function getFuelRequired(mass: number): number {
@@ -21,7 +21,7 @@ function getTotalFuel(mass: number): number {
     }
 
     return totalFuel
-
+    
 }
 
 var fuel = data.map(x => getTotalFuel(x))
