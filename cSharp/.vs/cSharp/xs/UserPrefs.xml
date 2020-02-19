@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F28BBD7A-36D6-457C-AE0F-8739C37D91D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.cSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cSharp/Program.cs">
+    <Files>
+      <File FileName="cSharp/Program.cs" Line="111" Column="6" />
+      <File FileName="cSharp/Day3.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cSharp" expanded="True">
+            <Node name="cSharp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/raamChauhan/Projects/adventOfCode2019/cSharp/cSharp/bin/Debug/cSharp.exe
+/Users/raamChauhan/Projects/adventOfCode2019/cSharp/cSharp/bin/Debug/cSharp.pdb
+/Users/raamChauhan/Projects/adventOfCode2019/cSharp/cSharp/obj/Debug/cSharp.csprojAssemblyReference.cache
+/Users/raamChauhan/Projects/adventOfCode2019/cSharp/cSharp/obj/Debug/cSharp.exe
+/Users/raamChauhan/Projects/adventOfCode2019/cSharp/cSharp/obj/Debug/cSharp.pdb
